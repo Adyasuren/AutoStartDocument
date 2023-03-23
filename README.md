@@ -79,7 +79,7 @@
 ## Request 5. Get car information
 
 ```js
-const REQ5 = {
+{
     cmd: 5,
     imei: "123456789"
 }

@@ -1,11 +1,11 @@
 # AutoStartDocument
 
 # Request 1. Start Engine
-{
-    cmd: 1,
-    imei: "123456789"
-}
-
+{\
+    cmd: 1,\
+    imei: "123456789"\
+}\
+\
 // Response
 const RES1 = {
     imei: "123456789",
